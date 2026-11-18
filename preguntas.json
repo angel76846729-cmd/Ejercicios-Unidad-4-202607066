@@ -1,0 +1,16 @@
+
+[
+    {
+        "tipo": "multiple",
+        "texto": "¿Cuál es la capital de Italia?",
+        "opciones": ["Roma", "Madrid", "París", "Londres"],
+        "correcta": 0,
+        "dificultad": 1
+    },
+    {
+        "tipo": "vf",
+        "texto": "El agua hierve a 100 grados Celsius",
+        "correcta": true,
+        "dificultad": 2
+    }
+]
